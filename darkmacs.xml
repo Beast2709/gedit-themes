@@ -65,7 +65,7 @@
   <style name="def:special-char" foreground="magenta3"/>
   <style name="def:special-constant" foreground="magenta3" bold="true"/>
   <style name="def:boolean" foreground="magenta3" bold="true"/>
-  <style name="def:number" foreground="white"/>
+  <style name="def:number" foreground="magenta3"/>
   <style name="def:floating-point" foreground="white"/>
   <style name="def:keyword" foreground="orange" bold="true"/>
   <style name="def:builtin" foreground="lightskyblue"/>
